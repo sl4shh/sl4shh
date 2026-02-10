@@ -5,7 +5,7 @@
 <p align="left"><code>💻</code> I'm a French student passionate about development, with a focus on <b>cybersecurity</b> and web development.<br>
   <code>📜</code> Currently, I'm pursuing my engineering degree at EPITA, with a semester abroad at SeoulTech in South Korea.<br>
   <code>🔥</code> I'm always eager to learn and explore new technologies.<br>
-  <code>💬</code> Feel free to reach me at <a href="mailto:charvin.esteban@gmail.com"><code>charvin.esteban@gmail.com</code></a> or on LinkedIn
+  <code>💬</code> Feel free to reach me at <a href="mailto:esteban.charvin@proton.me"><code>esteban.charvin@proton.me</code></a> or on LinkedIn
 </p>
 
 ###
@@ -24,9 +24,9 @@
 
 <h2 align="left">🗨️ Contact me</h2>
 
-```ts
+```java
 public class ContactMe {
-  String email = "charvin.esteban@gmail.com";
+  String email = "esteban.charvin@proton.me";
   String linkedin = "https://www.linkedin.com/in/esteban-charvin/";
 }
 ```
