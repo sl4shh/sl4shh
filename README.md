@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><code>💻</code> I'm a French student passionate about development, with a focus on <b>cybersecurity</b> and web development.<br>
+<p align="left"><code>💻</code> I'm a French student passionate about development, with a focus on <b>DevOps & Software Development.</b><br>
   <code>📜</code> Currently, I'm pursuing my engineering degree at EPITA, with a semester abroad at SeoulTech in South Korea.<br>
   <code>🔥</code> I'm always eager to learn and explore new technologies.<br>
   <code>💬</code> Feel free to reach me at <a href="mailto:esteban.charvin@proton.me"><code>esteban.charvin@proton.me</code></a> or on LinkedIn
@@ -18,7 +18,14 @@
 
 <h2 align="left">🔧 Tech stack</h2>
 
-[![My Tools](https://skillicons.dev/icons?i=bash,c,cs,cpp,py,html,css,tailwind,js,ts,svelte,vue,nuxt,java,nodejs,deno,dart,flutter,docker,electron,mongodb,postgres,php)](https://skillicons.dev)
+### DevOps
+[![DevOps](https://skillicons.dev/icons?i=linux,bash,powershell,docker,kubernetes,ansible,terraform,openstack,gitlab,nginx,grafana,prometheus)](https://skillicons.dev)
+
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,svelte)](https://skillicons.dev)
+
+### Backend
+[![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,express,py,django,php,c,cpp,cs,postgres,mongodb,redis,elasticsearch)](https://skillicons.dev)
 
 ###
 
